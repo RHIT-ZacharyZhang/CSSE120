@@ -1,0 +1,48 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\.metadata\.plugins\org.eclipse.core.resources\.projects\Session02_InputComputeOutput\com.python.pydev.analysis\v2_indexcache
+m0e_input_compute_output|1473626083245978000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m0e_input_compute_output.py
+m3_practice_fixing_errors|1473626083241978000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m3_practice_fixing_errors.py
+m5e_calling_functions_defined_in_YOUR_code|1473626083264980000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m5e_calling_functions_defined_in_YOUR_code.py
+m00e_instructions|1473626083267980000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m00e_instructions.py
+m8_more_practice|1473626083254979000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m8_more_practice.py
+m2_input_compute_output|1473626083239978000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m2_input_compute_output.py
+m4_calling_functions_with_arguments|1473626083259979000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m4_calling_functions_with_arguments.py
+m6_calling_functions_defined_in_YOUR_code|1473626083250979000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m6_calling_functions_defined_in_YOUR_code.py
+m7_more_practice_fixing_errors|1473626083252979000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m7_more_practice_fixing_errors.py
+m1e_input_compute_output_in_functions|1473626083243978000|C:\Users\ZacharyZhang\OneDrive\Documents\CSSE120\Session02_InputComputeOutput\src\m1e_input_compute_output_in_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+8=m0e_input_compute_output
+2=m3_practice_fixing_errors
+1=m5e_calling_functions_defined_in_YOUR_code
+7=m8_more_practice
+4=m2_input_compute_output
+5=m6_calling_functions_defined_in_YOUR_code
+6=m4_calling_functions_with_arguments
+9=m7_more_practice_fixing_errors
+3=m1e_input_compute_output_in_functions
+-- END DICTIONARY
+-- START TREE 1
+16
+bad|1|bad_better_best!10@
+cir|1|circle_area!18@
+con|2|convert_to_fahrenheit!26@convert_to_celsius!26@
+cyl|1|cylinder_volume!34@
+do_|2|do_shared_factors!42@do_sums!42@
+exa|1|example_of_function_composition!10@
+exp|1|exp_approximation!10@
+inp|1|input_angle!50@
+mai|9|main!26@main!18@main!50@main!42@main!34@main!58@main!66@main!10@main!74@
+num|1|number_of_shared_factors!42@
+pra|1|practice_using_exp_approximation!10@
+pri|5|print_distance_to_origin!58@print_farewell!74@print_greeting!74@print_greeting!18@print_logarithm!58@
+rai|1|raise_to_power!34@
+ran|1|random_stuff!50@
+rec|1|rectangle_area!34@
+sum|1|sum_of_digits!42@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

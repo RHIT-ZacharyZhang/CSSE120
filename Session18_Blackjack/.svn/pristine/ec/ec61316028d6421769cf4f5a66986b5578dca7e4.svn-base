@@ -1,0 +1,17 @@
+As always, do the Preparation for this session before doing this project.
+
+As the Preparation says, you are to implement the first 6 stages
+of a Blackjack program by CODING AS YOU WATCH THE RELEVANT VIDEO.
+That is:
+  1. Open m1. As you watch the video for Stage 1, put your own code into m1.
+  2. Open m2. As you watch the video for Stage 2, put your own code into m2.
+    ... (etc for m3, m4, m5)
+  6. Open m6. As you watch the video for Stage 6, put your own code into m6.
+  
+
+At any point, you are also welcome to look at the ANSWER file for that stage.
+Do whatever is best for your own learning.
+
+Once you finish m6, you can use it as your starting point for
+implementing a Human player and the Dealer, or you can use m7_blackjack.
+The latter is the same as the end of the video for Stage 7.
